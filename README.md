@@ -1,8 +1,5 @@
 
 
-Professional Self-Bot Based On NEW TG-CLI
-
-
 * * *
 
 ## Commands
